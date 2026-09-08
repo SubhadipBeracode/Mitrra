@@ -1,6 +1,18 @@
+<div align="center">
+
+<img src="./mobile/assets/image/banner.png" alt="Mitrra - AI Powered Audio Podcasts" width="100%">
+
+<br><br>
+
+<img src="./mobile/assets/image/app_icon.png" alt="Mitrra App Icon" width="120">
+
 # Mitrra 🎧
 
-Turn your favorite sources — RSS feeds, blogs, articles, and links — into short, AI-generated audio podcasts you can listen to on the go.
+### Read less. Listen more.
+
+**Turn your favorite sources — RSS feeds, blogs, articles, and links — into short, AI-generated audio podcasts you can listen to on the go.**
+
+</div>
 
 ---
 
