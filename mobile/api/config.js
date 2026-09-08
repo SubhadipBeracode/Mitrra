@@ -1,1 +1,1 @@
-export const API_BASE_URL = 'http://10.188.142.199:3000/api';
+export const API_BASE_URL = 'https://mitrra-production.up.railway.app/api';
