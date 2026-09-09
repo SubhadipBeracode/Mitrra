@@ -120,6 +120,27 @@ For full technical setup details, see [TECH.md](./TECH.md).
 
 ---
 
+## 🚀 Future Updates (Roadmap)
+ 
+Ideas being considered for upcoming versions:
+ 
+- **Multi-language support** — generate transcripts and voice narration in languages beyond English (e.g. Hindi, Bengali), selectable per episode
+- **Playback speed control** — 0.5x to 2x speed, like most podcast apps
+- **Sleep timer** — auto-pause playback after a set duration
+- **Voice selection** — let users pick a narrator voice/tone for their episodes instead of one default voice
+- **Smarter ranking** — move from keyword-based article ranking to semantic/embedding-based relevance scoring for better source-to-topic matching
+- **Recurring auto-generation** — let users schedule a topic to auto-generate a new episode daily/weekly instead of only manual generation
+- **Episode chapters** — jump directly to the section of an episode covering a specific source article
+- **Share episodes** — share a generated episode link with friends outside the app
+- **Search** — search across episode titles and transcripts
+- **Listening stats** — streaks, most-played topics, total listening time
+- **Official social media integration** — richer Instagram/LinkedIn/X content support via their official APIs (currently limited by platform restrictions on public scraping)
+- **iOS release** — currently Android-only via APK; iOS build and App Store release planned
+- **Home screen widget** — quick access to the latest episode without opening the app
+Have an idea not listed here? Suggest it via **Settings → Help & Support → Contact Support**.
+ 
+---
+
 ## 📩 Feedback & Support
 
 Found a bug or have a feature idea? Reach out via **Settings → Help & Support → Contact Support** inside the app.
