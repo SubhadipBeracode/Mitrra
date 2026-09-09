@@ -22,7 +22,7 @@ export default function Terms() {
 
         <ScrollView showsVerticalScrollIndicator={false}>
           <Text style={styles.bodyText}>
-            By using AI Daily Digest, you agree to use the app for personal, non-commercial purposes only.
+            By using Mitrra, you agree to use the app for personal, non-commercial purposes only.
             {'\n\n'}
             Content generated through this app is created using third-party AI services and is provided
             "as is" without warranty of accuracy. You are responsible for verifying any information before
