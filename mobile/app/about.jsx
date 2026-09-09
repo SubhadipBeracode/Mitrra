@@ -29,7 +29,7 @@ export default function About() {
 
         <ScrollView showsVerticalScrollIndicator={false}>
           <View style={styles.appInfoCard}>
-            <Text style={styles.appName}>AI Daily Digest</Text>
+            <Text style={styles.appName}>Mitrra</Text>
             <Text style={styles.appVersion}>Version {appVersion}</Text>
           </View>
 
